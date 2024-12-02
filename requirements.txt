@@ -1,0 +1,6 @@
+streamlit
+nfl_data_py
+pandas
+python-dateutil
+plotly>=5.0.0
+numpy
